@@ -6,6 +6,7 @@ This project is a fun and simple way to hide and encrypt secret messages within 
 Special Thanks To:
 Professor K M Akkas Ali
 Professor, Institute of Information Technology
+Jahangirnagar University
 
 Team Members:
 1.Mihir The Vung_vang
