@@ -191,4 +191,4 @@ int main() {
 }
 //Special Thanks To
 //Professor K M Akkas Ali
-//Professor, Institute of Information Technology
+//Institute of Information Technology,Jahangirnagar University
