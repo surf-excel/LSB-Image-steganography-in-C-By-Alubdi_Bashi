@@ -9,7 +9,7 @@ Professor, Institute of Information Technology
 Jahangirnagar University
 
 Team Members:
-1.Mihir The Vung_vang
+1.Mihir Bormon
 
 2.Mainul Islam
 
